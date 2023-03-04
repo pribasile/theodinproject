@@ -35,14 +35,12 @@ body {
 }
  
 .top-bar {
-  outline: 2px dashed #4b4b52;
   margin-top: 10px;
   margin-right: 10px;
   margin-left: 10px;
   border-radius: 50px;
   width: 98.7%;
   height: 60px;
-  opacity: 0.95;
   background-color: white;
   position: fixed;
   top: 0;
@@ -67,7 +65,7 @@ body {
 
 .container{
  margin-top:300px;
- background-color:white;
+ background-color: #141921;
 }
 
 .text-margin {
@@ -83,11 +81,11 @@ body {
 }
 
 .sub-container{
- background-color:white;
+ background-color: #141921;
  padding-bottom: 300px;
 }
 
-.darkmode-icon {
+.lightmode-icon {
  position: relative;
  margin-left: 95%;
  margin-top: 12px;
