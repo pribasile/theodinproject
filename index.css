@@ -1,0 +1,15 @@
+*{
+ background-color: lightblue;
+ text-align: center;
+}
+
+.header {
+  color: black;
+  font-size: 48px;
+}
+.header1 {
+  color: black;
+}
+.block {
+  color: black;
+}
