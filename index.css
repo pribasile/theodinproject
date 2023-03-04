@@ -1,19 +1,29 @@
 * {
  font-family: 'Fredoka One', cursive;
- background-color: lightblue;
- text-align: center;
+ /*background-color: lightblue;*//*holas iaentuaeifaeif iejgiusefisefi8j488e*/
+ 
+}
+
+body {
+  background-image: url("background.jpg");
+  background-opacity: 0.5;
+  background-size: cover;
+  text-align: center;
+  margin: 250px;
 }
 
 .header {
-  color: black;
+  color: white;
   font-size: 48px;
 }
 .header1 {
-  color: black;
+  color: white;
 }
 .block {
-  color: black;
+  color: white;
 }
-img {max-width: 22px;
-     max-height: auto;
+img {
+ display: inline;
+ max-width: 22px;
+ max-height: auto;
 }
